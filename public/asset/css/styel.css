@@ -1,0 +1,32 @@
+body{
+    background: wheat;
+    font-size: 20px;
+    color: white;
+}
+.example{
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.contoh{
+    background-color: red;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.gambar{
+    background-color: red;
+    text-align: center;
+}
+.bawah{
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+   
+}
+.black{
+    background-color: wheat;
+    color: white;
+}
+
